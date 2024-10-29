@@ -2,29 +2,44 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 div.background {
-    background-color:lightgray;
+    background-color:#DCD7C9;
 
 }
-div.card {
-    background-color: white;
-    margin-top:0px;
-    margin-left: 400px;
-    margin-right: 400px;
+div.card.home {
+    box-sizing:border-box;
+    background-color:#3F4E4F;
+    margin:auto;
+    height:720px;
+    width:1000px;
+
 }
 h1.home {
     text-align: center;
-    background-color: rgb(31, 29, 29);
-    color:white;
+    background-color: #2C3639;
+    color:#A27B5C;
     font-weight:bold;
     font-size:64px;
+    margin-top: 0px;
+    margin-bottom:0px;
+    box-sizing: border-box;
+    height:100px;
+    padding-top:10px;
 
 }
 a.home {
-    color: rgb(31, 29, 29);
+    color: #A27B5C;
     font-size:48px;
+    text-decoration: none;
 }
-ul.home {
-    display:inline-block;
+button.home {
+    display:block;
+    margin:auto;
+    margin-bottom:
+    box-sizing: border-box;
+    height:100px;
+    width:500px;
+    background-color:#DCD7C9;
+    margin-bottom:30px;
 }
 h2 {
     background-color:rgb(31, 29, 29) ;
