@@ -21,6 +21,8 @@ h1.home {
     font-size:64px;
     margin-top: 0px;
     margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
     box-sizing: border-box;
     height:100px;
     padding-top:10px;
